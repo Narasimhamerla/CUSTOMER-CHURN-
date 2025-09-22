@@ -14,12 +14,4 @@ To detect early signs of potential churn, one must first develop a holistic view
 As a result, by addressing churn, these businesses may not only preserve their market position, but also grow and thrive. More customers they have in their network, the lower the cost of initiation and the larger the profit. As a result, the company's key focus for success is reducing client attrition and implementing effective retention strategy.
 
 
-Objectives
-I will explore the data and try to answer some questions like:
 
-What's the % of Churn Customers and customers that keep in with the active services?
-Is there any patterns in Churn Customers based on the gender?
-Is there any patterns/preference in Churn Customers based on the type of service provided?
-What's the most profitable service types?
-Which features and services are most profitable?
-Many more questions that will arise during the analysis
